@@ -1,2 +1,2 @@
 # AI-Pneumonia-Daignosis-Assistant
-The Project aims to develop a model capable of successfully identifying and classifying pneumonia disease in Chest X-Rays of a variety of patients.
+This project is an AI-powered medical diagnosis assistant that identifies pneumonia from chest X-ray images using deep learning. Built with PyTorch and trained on a Kaggle dataset, the model leverages the ResNet18 architecture to accurately classify whether a patient has pneumonia or not.
